@@ -1,9 +1,9 @@
 
 # Technology Used
 This project is developed using:
-Data Bricks - https://databricks.com/ 
+
 <img src='https://github.com/bmshoemaker/retail_analysis_on_databricks/blob/main/Images/databricks.png?raw=true'>
-Apache Spark - https://spark.apache.org/ 
+
 <img src='https://github.com/bmshoemaker/retail_analysis_on_databricks/blob/main/Images/Spark.png?raw=true'>
 
 # retail_analysis_on_databricks
